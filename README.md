@@ -78,6 +78,7 @@ Não basta criar dois bancos independentes. **A aplicação deverá utilizar
 os dois.**
 
 ## Parte 4 - Entrega
+Entrega e apresentação irão ocorrer na Aula18
 
 Entregar:
 
